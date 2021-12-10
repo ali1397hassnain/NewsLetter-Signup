@@ -1,3 +1,12 @@
 git init
 git add . 
 git commit -m "Whatever the commit message is"
+git diff (file name)
+git remote add origin (repository link)
+git push -u origin master
+
+
+optionals (git status , git log)
+To reverse to the previous checkpoint (git checkout (file name))
+
+to remove all commits ( git rm --cached -r . )
